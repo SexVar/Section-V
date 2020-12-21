@@ -26,6 +26,8 @@ Ceci, S. J., Williams, W. M., & Barnett, S. M. (2009). Women's underrepresentati
 
 Fine, C. (2010). Unraveling hardwiring. In _Delusions of gender: How our minds, society, and neurosexism create difference_ (pp. 176-186). W. W. Norton & Company.
 
+Fine, C., Joel, D., & Rippon, G. (2019). Eight things you need to know about sex, gender, brains, and behavior: A guide for academics, journalists, parents, gender diversity advocates, social justice warriors, Tweeters, Facebookers, and everyone else. _Scholar and Feminist Online_, _15_(2).
+
 Hyde, J. S., Lindberg, S. M., Linn, M. C., Ellis, A. B., & Williams, C. C. (2008). Gender similarities characterize math performance. _Science_, _321_(5888), 494-495.
 
 Hyde, J. S. & Mertz, J. E. (2009). Gender, culture, and mathematics performance. _Proceedings of the National Academy of Sciences_, _106_(22), 8801-8807.
