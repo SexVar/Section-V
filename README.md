@@ -16,7 +16,7 @@ Hyde and Mertz (2009) were not the only authors to overlook the distinction betw
 
 <sup>“Also important, however, is that the variance ratio appears to vary by ethnicity. For instance, in analyses of selective high school students from one U.S. state, the authors noted that VR = 2.06 for White, but only 0.91 for Asian American, 11th graders who scored in the top one percent on their state assessment. That is, among Whites, more boys than girls scored at the top of the distribution, whereas among Asian Americans, more girls than boys scored in the top one percent. … These findings shed some doubts on the notion that boys and men always exhibit more variance in ability than do girls and women” (p. 304).</sup>
 
-Variance ratios did not vary by ethnicity: when Priess and Hyde cited VRs of 2.06 and 0.91, they were referring to TPRs. They began to reverse course by providing a definition of TPRs, but followed by drawing a conclusion that is appropriate only if the numbers had been VRs. The conflation of VR and TPR was so complete here that it led to a misstatement of plain facts. These instances do not exhaust the confusion around these concepts.
+Variance ratios did not vary by ethnicity: when Priess and Hyde cited VRs of 2.06 and 0.91, they were referring to TPRs. They began to reverse course by providing a definition of TPRs, but followed by drawing a conclusion that could be appropriate only if the numbers had been VRs. The conflation of VR and TPR was so complete here that it led to a misstatement of plain facts. These instances do not exhaust the confusion around these concepts.
 
 &nbsp;
 
