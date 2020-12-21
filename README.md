@@ -1,4 +1,4 @@
-This is an excerpt from Section V of an incomplete multi-part project. The introduction is [here](https://github.com/SexVar/Intro).
+This is an excerpt from Section V of a multi-part project. The introduction is [here](https://github.com/SexVar/Intro).
 
 # Section V: Objections to the Greater Male Variability Hypothesis
 
