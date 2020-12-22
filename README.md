@@ -72,6 +72,8 @@ Fine, C., Joel, D., & Rippon, G. (2019). Eight things you need to know about sex
 
 Flores-Mendoza, C., Ardila, R., Rosas, R., Lucio, M. E., Gallegos, M., & Colareta, N. R. (2018). _Intelligence Measurement and School Performance in Latin America_. Springer, Cham.
 
+Guiso, L., Monte, F., Sapienza, P., & Zingales, L. (2008). Culture, gender, and math. _Science_, _320_(5880), 1164-1165.
+
 Hanna, G. (1986). Sex differences in the mathematics achievement of eighth graders in Ontario. _Journal for Research in Mathematics Education_, _17_(3), 231-237.
 
 Harnisch, D. L., Steinkamp, M. W., Tsai, S. L., & Walberg, H. J. (1986). Cross-national differences in mathematics attitude and achievement among seventeen-year-olds. _International Journal of Educational Development_, _6_(4), 233-244.
@@ -80,6 +82,8 @@ Hyde, J. S., Lindberg, S. M., Linn, M. C., Ellis, A. B., & Williams, C. C. (2008
 
 Hyde, J. S. & Mertz, J. E. (2009). Gender, culture, and mathematics performance. _Proceedings of the National Academy of Sciences_, _106_(22), 8801-8807.
 
+Kane, J. M. & Mertz, J. E. (2012). Debunking myths about gender and mathematics performance. _Notices of the AMS_, _59_(1), 10-21.
+
 Knopik, V. S. & DeFries, J. C. (1998). A twin study of gender-influenced individual differences in general cognitive ability. _Intelligence_, _26_(2), 81-89.
 
 Lohman, D. F. & Lakin, J. M. (2009). Consistencies in sex differences on the Cognitive Abilities Test across countries, grades, test forms, and cohorts. _British Journal of Educational Psychology_, _79_(2), 389-407.
@@ -87,6 +91,8 @@ Lohman, D. F. & Lakin, J. M. (2009). Consistencies in sex differences on the Cog
 Lynn, R. (1992). Sex differences on the differential aptitude test in British and American adolescents. _Educational Psychology_, _12_(2), 101-106.
 
 Lynn, R. & Mulhern, G. (1991). A comparison of sex differences on the Scottish and American standardisation samples of the WISC-R. _Personality and Individual Differences_, _12_(11), 1179-1182.
+
+Machin, S. & Pekkarinen, T. (2008). Global sex differences in test score variability. _Science_, _322_(5906), 1331-1332.
 
 Mozahem, N. A., Kozbar, D. K., Al Hassan, A. W., & Mozahem, L. A. (2018). Gender differences in career choices among students in secondary school. _International Journal of School & Educational Psychology_, _8_(3), 184-198.
 
@@ -100,6 +106,8 @@ Spelke, E. S. (2005). Sex differences in intrinsic aptitude for mathematics and 
 
 Steinkamp, M. W., Harnisch, D. L., Walberg, H. J., & Tsai, S. L. (1985). Cross-national gender differences in mathematics attitude and achievement among 13-year-olds. _The Journal of Mathematical Behavior_, _4_(3), 259-277.
 
+Sterelny, K. & Griffiths, P. E. (1999). _Sex and death: An introduction to philosophy of biology_. University of Chicago Press.
+
 Stevenson, H. W., Chen, C., & Booth, J. (1990). Influences of schooling and urban-rural residence on gender differences in cognitive abilities and academic achievement. _Sex Roles_, _23_(9-10), 535-551.
 
 Strand, S., Deary, I. J., & Smith, P. (2006). Sex differences in cognitive abilities test scores: A UK national picture. _British Journal of Educational Psychology_, _76_(3), 463-480.
@@ -111,3 +119,5 @@ Visser, D. (1987). Sex differences in adolescent mathematics behaviour. _South A
 Vista, A. & Care, E. (2011). Gender differences in variance and means on the Naglieri Non‐verbal Ability Test: Data from the Philippines. _British Journal of Educational Psychology_, _81_(2), 292-308.
 
 Zhou, Y., Fan, X., Wei, X., & Tai, R. H. (2017). Gender gap among high achievers in math and implications for STEM pipeline. _The Asia-Pacific Education Researcher_, _26_(5), 259-269.
+
+Zuze, T. L. & Reddy, V. (2016). What has variability got to do with it? Explaining gender achievement gaps among African primary school students. _AfricaGrowth Agenda_, _13_(2), 14-19.
