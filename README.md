@@ -44,16 +44,38 @@ Ceci, S. J., Ginther, D. K., Kahn, S., & Williams, W. M. (2014). Women in academ
 
 Ceci, S. J., Williams, W. M., & Barnett, S. M. (2009). Women's underrepresentation in science: sociocultural and biological considerations. _Psychological Bulletin_, _135_(2), 218-261.
 
+Cheung, K. C. (1989). Gender differences in the junior secondary (grade 7) mathematics curriculum in Hong Kong. _Educational Studies in Mathematics_, _20_(1), 97-103.
+
+Dai, X., Ryan, J. J., Paolo, A. M., & Harrington, R. G. (1991). Sex differences on the Wechsler Adult Intelligence Scale—Revised for China. _Psychological Assessment: A Journal of Consulting and Clinical Psychology_, _3_(2), 282-284.
+
+Emanuelsson, I. & Svensson, A. (1986). Does the Level of Intelligence Decrease? A Comparison between Thirteen-Year-Olds Tested in 1961, 1966 and 1980. _Scandinavian Journal of Educational Research_, _30_(1), 25-37.
+
+Esquivel, J. M. & Brenes, M. (1988). Gender differences in achievement in Costa Rican students: Science, mathematics, and Spanish. Paper presented at the annual meeting of the National Association for Research in Science Teaching, Lake of the Ozarks, Missouri.
+
 Fine, C. (2010). Unraveling hardwiring. In _Delusions of gender: How our minds, society, and neurosexism create difference_ (pp. 176-186). W. W. Norton & Company.
 
 Fine, C., Joel, D., & Rippon, G. (2019). Eight things you need to know about sex, gender, brains, and behavior: A guide for academics, journalists, parents, gender diversity advocates, social justice warriors, Tweeters, Facebookers, and everyone else. _Scholar and Feminist Online_, _15_(2).
+
+Hanna, G. (1986). Sex differences in the mathematics achievement of eighth graders in Ontario. _Journal for Research in Mathematics Education_, _17_(3), 231-237.
+
+Harnisch, D. L., Steinkamp, M. W., Tsai, S. L., & Walberg, H. J. (1986). Cross-national differences in mathematics attitude and achievement among seventeen-year-olds. _International Journal of Educational Development_, _6_(4), 233-244.
 
 Hyde, J. S., Lindberg, S. M., Linn, M. C., Ellis, A. B., & Williams, C. C. (2008). Gender similarities characterize math performance. _Science_, _321_(5888), 494-495.
 
 Hyde, J. S. & Mertz, J. E. (2009). Gender, culture, and mathematics performance. _Proceedings of the National Academy of Sciences_, _106_(22), 8801-8807.
 
+Lynn, R. (1992). Sex differences on the differential aptitude test in British and American adolescents. _Educational Psychology_, _12_(2), 101-106.
+
+Lynn, R. & Mulhern, G. (1991). A comparison of sex differences on the Scottish and American standardisation samples of the WISC-R. _Personality and Individual Differences_, _12_(11), 1179-1182.
+
 Mozahem, N. A., Kozbar, D. K., Al Hassan, A. W., & Mozahem, L. A. (2018). Gender differences in career choices among students in secondary school. _International Journal of School & Educational Psychology_, _8_(3), 184-198.
 
 Priess, H. A. & Hyde, J. S. (2010). Gender and academic abilities and preferences. In J. C. Chrisler & D. R. McCreary (Eds.), _Handbook of gender research in psychology_ (Vol. 1, pp. 297-316). Springer.
+
+Steinkamp, M. W., Harnisch, D. L., Walberg, H. J., & Tsai, S. L. (1985). Cross-national gender differences in mathematics attitude and achievement among 13-year-olds. _The Journal of Mathematical Behavior_, _4_(3), 259-277.
+
+Stevenson, H. W., Chen, C., & Booth, J. (1990). Influences of schooling and urban-rural residence on gender differences in cognitive abilities and academic achievement. _Sex Roles_, _23_(9-10), 535-551.
+
+Visser, D. (1987). Sex differences in adolescent mathematics behaviour. _South African Journal of Psychology_, _17_(4), 137-144.
 
 Zhou, Y., Fan, X., Wei, X., & Tai, R. H. (2017). Gender gap among high achievers in math and implications for STEM pipeline. _The Asia-Pacific Education Researcher_, _26_(5), 259-269.
