@@ -50,11 +50,7 @@ Bielinski, J. & Davison, M. L. (1998). Gender differences by item difficulty int
 
 Bosson, J. K., Vandello, J. A., & Buckner, C. E. (2018). _The psychology of sex and gender_. SAGE Publications.
 
-Broom, M. E. (1930). Sex differences in mental ability among junior high school pupils. _Journal of Applied Psychology_, _14_(1), 83-90.
-
 Caplan, P. J. & Caplan, J. (2009). _Thinking critically about research on sex and gender_ (3rd ed.). Pearson.
-
-Carroll, H. A. (1933). Influence of the sex factor upon appreciation of literature. _School & Society_, _37_(954), 468-472.
 
 Ceci, S. J., Ginther, D. K., Kahn, S., & Williams, W. M. (2014). Women in academic science: A changing landscape. _Psychological Science in the Public Interest_, _15_(3), 75-141.
 
@@ -63,8 +59,6 @@ Ceci, S. J., Williams, W. M., & Barnett, S. M. (2009). Women's underrepresentati
 Cheung, K. C. (1989). Gender differences in the junior secondary (grade 7) mathematics curriculum in Hong Kong. _Educational Studies in Mathematics_, _20_(1), 97-103.
 
 Church, A. T., Katigbak, M. S., & Almario-Velazco, G. (1985). Psychometric intelligence and adaptive competence in rural Philippine children. _Intelligence_, _9_(4), 317-340.
-
-Conrad, H. S., Jones, H. E., & Hsiao, H. H. (1933). Sex differences in mental growth and decline. _Journal of Educational Psychology_, _24_(3), 161-169.
 
 Dai, X., Ryan, J. J., Paolo, A. M., & Harrington, R. G. (1991). Sex differences on the Wechsler Adult Intelligence Scale—Revised for China. _Psychological Assessment: A Journal of Consulting and Clinical Psychology_, _3_(2), 282-284.
 
@@ -96,11 +90,7 @@ Hyde, J. S. & Mertz, J. E. (2009). Gender, culture, and mathematics performance.
 
 Kane, J. M. & Mertz, J. E. (2012). Debunking myths about gender and mathematics performance. _Notices of the AMS_, _59_(1), 10-21.
 
-Kaulfers, W. (1928). Intelligence of 1000 students of foreign languages. _School and Society_, _28_(724), 597-599.
-
 Knopik, V. S. & DeFries, J. C. (1998). A twin study of gender-influenced individual differences in general cognitive ability. _Intelligence_, _26_(2), 81-89.
-
-Lincoln, E.A. (1927). _Sex differences in the growth of American school children_. Baltimore, MD: Warwick & York.
 
 Lohman, D. F. & Lakin, J. M. (2009). Consistencies in sex differences on the Cognitive Abilities Test across countries, grades, test forms, and cohorts. _British Journal of Educational Psychology_, _79_(2), 389-407.
 
@@ -114,19 +104,13 @@ McNemar, Q. & Terman, L. M. (1936). Sex differences in variational tendency. _Ge
 
 Mozahem, N. A., Kozbar, D. K., Al Hassan, A. W., & Mozahem, L. A. (2018). Gender differences in career choices among students in secondary school. _International Journal of School & Educational Psychology_, _8_(3), 184-198.
 
-Pintner, R. (1924). Results obtained with the non-language group test. _Journal of Educational Psychology_, _15_(8), 473-483.
-
 Penner, A. M. (2008). Gender differences in extreme mathematical achievement: An international perspective on biological and social factors. _American Journal of Sociology_, _114_(S1), S138-S170.
 
 Petersen, J. (2013). Gender differences in identification of gifted youth and in gifted program participation: A meta-analysis. _Contemporary Educational Psychology_, _38_(4), 342-348.
 
-Pressey, L. W. (1918). Sex differences shown by 2,544 school children on a group scale of intelligence, with special reference to variability. _Journal of Applied Psychology_, _2_(4), 323-340.
-
 Priess, H. A. & Hyde, J. S. (2010). Gender and academic abilities and preferences. In J. C. Chrisler & D. R. McCreary (Eds.), _Handbook of gender research in psychology_ (Vol. 1, pp. 297-316). Springer.
 
 Spelke, E. S. (2005). Sex differences in intrinsic aptitude for mathematics and science?: A critical review. _American Psychologist_, _60_(9), 950-958.
-
-Snoddy, G. S. & Hyde, G. E. (1921). Mental survey of Utah schools and adaptation of the Army Beta tests. _Bulletin of the University of Utah_, _12_(6), 1-28.
 
 Steinkamp, M. W., Harnisch, D. L., Walberg, H. J., & Tsai, S. L. (1985). Cross-national gender differences in mathematics attitude and achievement among 13-year-olds. _The Journal of Mathematical Behavior_, _4_(3), 259-277.
 
@@ -136,17 +120,43 @@ Stevenson, H. W., Chen, C., & Booth, J. (1990). Influences of schooling and urba
 
 Strand, S., Deary, I. J., & Smith, P. (2006). Sex differences in cognitive abilities test scores: A UK national picture. _British Journal of Educational Psychology_, _76_(3), 463-480.
 
-The Staff of the Division of Psychology of the Institute of Educational Research, Teachers College, Columbia University. (1926a). On the variability of boys and girls from thirteen to eighteen. _The Pedagogical Seminary and Journal of Genetic Psychology_, _33_(2), 182-184.
-
-The Staff of the Division of Psychology of the Institute of Educational Research, Teachers College, Columbia University. (1926b). Sex differences in status and gain in intelligence scores from thirteen to eighteen. _The Pedagogical Seminary and Journal of Genetic Psychology_, _33_(2), 167-181.
-
-Trabue, M. R. (1916). _Completion-test language scales_. New York, NY: Teachers College, Columbia University.
-
 Valian, V. (1998). _Why so slow?: The advancement of women_. Cambridge, MA: The MIT Press.
 
 Visser, D. (1987). Sex differences in adolescent mathematics behaviour. _South African Journal of Psychology_, _17_(4), 137-144.
 
 Vista, A. & Care, E. (2011). Gender differences in variance and means on the Naglieri Non‐verbal Ability Test: Data from the Philippines. _British Journal of Educational Psychology_, _81_(2), 292-308.
+
+Zhou, Y., Fan, X., Wei, X., & Tai, R. H. (2017). Gender gap among high achievers in math and implications for STEM pipeline. _The Asia-Pacific Education Researcher_, _26_(5), 259-269.
+
+Zuze, T. L. & Reddy, V. (2016). What has variability got to do with it? Explaining gender achievement gaps among African primary school students. _AfricaGrowth Agenda_, _13_(2), 14-19.
+
+&nbsp;
+
+## References (supplement)
+
+Broom, M. E. (1930). Sex differences in mental ability among junior high school pupils. _Journal of Applied Psychology_, _14_(1), 83-90.
+
+Carroll, H. A. (1933). Influence of the sex factor upon appreciation of literature. _School & Society_, _37_(954), 468-472.
+
+Conrad, H. S., Jones, H. E., & Hsiao, H. H. (1933). Sex differences in mental growth and decline. _Journal of Educational Psychology_, _24_(3), 161-169.
+
+Kaulfers, W. (1928). Intelligence of 1000 students of foreign languages. _School and Society_, _28_(724), 597-599.
+
+Lincoln, E.A. (1927). _Sex differences in the growth of American school children_. Baltimore, MD: Warwick & York.
+
+McNemar, Q. & Terman, L. M. (1936). Sex differences in variational tendency. _Genetic Psychology Monographs_, _18_, 1-65.
+
+Pintner, R. (1924). Results obtained with the non-language group test. _Journal of Educational Psychology_, _15_(8), 473-483.
+
+Pressey, L. W. (1918). Sex differences shown by 2,544 school children on a group scale of intelligence, with special reference to variability. _Journal of Applied Psychology_, _2_(4), 323-340.
+
+Snoddy, G. S. & Hyde, G. E. (1921). Mental survey of Utah schools and adaptation of the Army Beta tests. _Bulletin of the University of Utah_, _12_(6), 1-28.
+
+The Staff of the Division of Psychology of the Institute of Educational Research, Teachers College, Columbia University. (1926a). On the variability of boys and girls from thirteen to eighteen. _The Pedagogical Seminary and Journal of Genetic Psychology_, _33_(2), 182-184.
+
+The Staff of the Division of Psychology of the Institute of Educational Research, Teachers College, Columbia University. (1926b). Sex differences in status and gain in intelligence scores from thirteen to eighteen. _The Pedagogical Seminary and Journal of Genetic Psychology_, _33_(2), 167-181.
+
+Trabue, M. R. (1916). _Completion-test language scales_. New York, NY: Teachers College, Columbia University.
 
 Wan, X., Wang, W., Liu, J., & Tong, T. (2014). Estimating the sample mean and standard deviation from the sample size, median, range and/or interquartile range. _BMC Medical Research Methodology_, _14_, 135.
 
@@ -155,7 +165,3 @@ Whipple, G. M. (1927). Sex differences in intelligence-test scores in the elemen
 Whitmire, E. D. (1920). A study of sex differences in 1340 unselected children (master’s thesis). Stanford University, Stanford, CA.
 
 Woody, C. (1931). The arithmetical backgrounds of young children. _The Journal of Educational Research_, _24_(3), 188-201.
-
-Zhou, Y., Fan, X., Wei, X., & Tai, R. H. (2017). Gender gap among high achievers in math and implications for STEM pipeline. _The Asia-Pacific Education Researcher_, _26_(5), 259-269.
-
-Zuze, T. L. & Reddy, V. (2016). What has variability got to do with it? Explaining gender achievement gaps among African primary school students. _AfricaGrowth Agenda_, _13_(2), 14-19.
