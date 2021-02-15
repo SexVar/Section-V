@@ -32,7 +32,7 @@ ggplot(data, aes(x = LVR, y = N)) +
         plot.caption = element_text(size = 9.5, hjust = .5, margin = margin(t = 15))) +
   labs(x = 'Variance Ratio', y = 'Sample Size') +
   scale_x_continuous(breaks = c(-log(1.1), log(seq(1, 2.4, .2))),
-                     minor_breaks = c(-log(1.1), log(seq(1, 3, .1))),
+                     minor_breaks = c(-log(1.1), log(seq(1, 2.4, .1))),
                      labels = c(1.1, seq(1, 2.4, .2)), limits = c(-log(1.07), log(2.4))) +
   scale_y_continuous(breaks = 1000*c(5, 10, 20, 30, 40, 50, 100, 200, 300, 400, 500),
                      minor_breaks = 1000*c(5, 10, 20, 30, 40, 50, 100, 200, 300, 400, 500),
