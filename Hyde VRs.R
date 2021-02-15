@@ -1,3 +1,6 @@
+library(ggplot2) # plotting beautifully
+library(scales) # transparent colors
+
 data <- data.frame(LVR = log(c(1.11, 1.11, 1.13, 1.16, 1.15, 1.17, 1.16, 1.13, 1.18, 1.1, # CA
                                1.13, 1.14, 1.07, 1.11, 1.11, 1.15, 1.14, # CT
                                1.12, 1.08, 1.11, 1.15, 1.17, 1.19, 1.16, 1.14, # IN
